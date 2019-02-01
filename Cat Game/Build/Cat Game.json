@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Cat's Games",
+"dataUrl": "Cat Game.data.unityweb",
+"wasmCodeUrl": "Cat Game.wasm.code.unityweb",
+"wasmFrameworkUrl": "Cat Game.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
